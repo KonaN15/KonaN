@@ -41,7 +41,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Callme: ***KonaN*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a Fivem Anticheat **"Kondu"**<br>
 ✔ I’m currently learning **Lua Language**🥰<br>
 ✔ I’m looking to collaborate with any **Fivem Server Owner That has at least 64 player **<br>
