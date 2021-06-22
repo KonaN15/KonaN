@@ -72,7 +72,7 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="" alt="ovi" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/11f6e6699104e7ef8d86a259f8e32544e2c75f6b8a69f7b894627b795374f45f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616b6173682d63686f7772617369612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KonaN&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
